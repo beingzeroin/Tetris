@@ -1,6 +1,4 @@
-/*
- * @Author: Daniel Milz
- */
+
 public class TETROMINOFACTORY
 {
     public static final TETROMINO_TYPE O_TYPE = new TETROMINO_TYPE( 0 );

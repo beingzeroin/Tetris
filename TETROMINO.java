@@ -1,6 +1,4 @@
-/*
- * @Author: Daniel Milz
- */
+
 
 import java.util.LinkedList;
 

@@ -1,6 +1,4 @@
-/*
- * @Author: Daniel Milz
- */
+
 public class TETROMINO_TYPE
 {
     private int type;

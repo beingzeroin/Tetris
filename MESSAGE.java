@@ -1,7 +1,5 @@
 
 /*
- * @Author: Daniel Milz
- * 
  * DESCRIPTION:
  * -1 : Game Over!
  * 0: Fertig / Bereit; Model

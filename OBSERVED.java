@@ -1,6 +1,3 @@
-/*
- * @Author: Daniel Milz
- */
 
 public interface OBSERVED
 {
