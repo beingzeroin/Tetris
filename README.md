@@ -1,2 +1,2 @@
 # Tetris
-A low level implementation of Tetris in Java (BlueJ) according to various design pattern as a school project
+A low level implementation of Tetris  in Java (with BlueJ) as a school project using various design pattern.
