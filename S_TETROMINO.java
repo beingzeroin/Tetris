@@ -1,6 +1,4 @@
-/*
- * @Author: Daniel Milz
- */
+
 public class S_TETROMINO extends TETROMINO
 {
     public S_TETROMINO()
