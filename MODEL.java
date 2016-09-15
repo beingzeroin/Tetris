@@ -20,7 +20,7 @@ public class MODEL implements OBSERVED, OBSERVER
     {
         observer = new OBSERVER[0];
         this.Initalize();
-        
+        /*
         audioFile = new File("theme.wav");
         AudioInputStream audioInput;
         try
@@ -32,7 +32,8 @@ public class MODEL implements OBSERVED, OBSERVER
         }
         catch(Exception e)
         {
-        } 
+        }
+        */
     }
     
     private synchronized void Notify(MESSAGE m) //Benachrichtigen
