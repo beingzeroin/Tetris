@@ -5,7 +5,7 @@ public class TETRIS
     
    private TETRIS() {}
    
-   public static void main()
+   public static void main(String[] args)
    {
        CONTROLLER controller = CONTROLLER.GetInstance();
        VIEW view = VIEW.GetInstance();
