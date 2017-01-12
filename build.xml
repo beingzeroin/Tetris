@@ -7,9 +7,6 @@
   <property name="build" location="build"/>
   <property name="main" location="src/Tetris"/>
  
-  <path id="classpath.test">
-    <pathelement location="${build}/main"/>
-  </path>
  
   <target name="init">
     <tstamp/>
