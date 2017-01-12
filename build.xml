@@ -11,12 +11,10 @@
   <target name="init">
     <tstamp/>
     <mkdir dir="${build}"/>
-    <mkdir dir="${build}/test"/>
-    <mkdir dir="${build}/main"/>
   </target>
  
   <target name="compile" depends="init" description="compile">
-    <javac srcdir="${src}" destdir="${build}/main"/>
+    <javac srcdir="${src}" destdir="${build}"/>
   </target>
 
  
